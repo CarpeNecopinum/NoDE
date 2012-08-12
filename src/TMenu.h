@@ -1,0 +1,4 @@
+class TMenu : public TApplet
+{
+    
+};
